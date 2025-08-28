@@ -13,8 +13,15 @@ Chapter - 1 : Project Setup <br>
 2. NextJS Installation
 3. Shadcn Installation
 4. Getting Started
+<br>
 
+Chapter - 2 Database Setup <br>
+1. Prisma init
+2. Init prisma client
+3. Get MongoDB URI
+4. DATABASE URI <br>
 
+- Open new branch and merge to our github
 
 _________________________________________________________________
 
